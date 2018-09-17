@@ -16,7 +16,7 @@ Chapter 1 References
     “[Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf),” at *11th USENIX Symposium on Operating Systems Design
     and Implementation* (OSDI), October 2014.
 
-1.  Yury Izrailevsky and Ariel Tseitlin:
+1.  **[TO READ]** Yury Izrailevsky and Ariel Tseitlin:
     “[The Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html),”
     *techblog.netflix.com*, July 19, 2011.
 
@@ -28,14 +28,14 @@ Chapter 1 References
 1.  Brian Beach:
     “[Hard Drive Reliability Update – Sep 2014](https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/),” *backblaze.com*, September 23, 2014.
 
-1.  Laurie Voss:
+1.  **[TO READ]** Laurie Voss:
     “[AWS: The Good, the Bad and the Ugly](https://web.archive.org/web/20160429075023/http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/),” *blog.awe.sm*, December 18, 2012.
 
 1.  Haryadi S. Gunawi, Mingzhe Hao, Tanakorn
     Leesatapornwongsa, et al.: “[What Bugs Live in the Cloud?](http://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf),” at *5th ACM Symposium on Cloud Computing* (SoCC), November 2014.
     [doi:10.1145/2670979.2670986](http://dx.doi.org/10.1145/2670979.2670986)
 
-1.  Nelson Minar:
+1.  **[READ]** Nelson Minar:
       “[Leap Second Crashes Half   the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
 
 1.  Amazon Web Services:
@@ -44,14 +44,14 @@ Chapter 1 References
 1.  Richard I. Cook:
     “[How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf),” Cognitive Technologies Laboratory, April 2000.
 
-1.  Jay Kreps:
+1.  **[TO READ]** Jay Kreps:
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
 
 1.  David Oppenheimer, Archana Ganapathi, and David A. Patterson:
     “[Why Do Internet Services Fail, and What Can Be Done About It?](http://static.usenix.org/legacy/events/usits03/tech/full_papers/oppenheimer/oppenheimer.pdf),” at *4th USENIX Symposium on
     Internet Technologies and Systems* (USITS), March 2003.
 
-1.  Nathan Marz:
+1.  **[TO READ]** Nathan Marz:
       “[Principles   of Software Engineering, Part 1](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html),” *nathanmarz.com*, April 2, 2013.
 
 1.  Michael Jurewitz:
@@ -82,7 +82,7 @@ Chapter 1 References
 1.  Jake Brutlag:
     “[Speed Matters for Google Web Search](http://googleresearch.blogspot.co.uk/2009/06/speed-matters.html),” *googleresearch.blogspot.co.uk*, June 22, 2009.
 
-1.  Tyler Treat:
+1.  **[TO READ]** Tyler Treat:
     “[Everything You Know About Latency Is Wrong](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/),” *bravenewgeek.com*, December 12, 2015.
 
 1.  Jeffrey Dean and Luiz André Barroso:
@@ -101,10 +101,10 @@ Chapter 1 References
 1.  Gil Tene:
     “[HdrHistogram](http://www.hdrhistogram.org/),” *hdrhistogram.org*.
 
-1.  Baron Schwartz:
+1.  **[TO READ]** Baron Schwartz:
     “[Why Percentiles Don’t Work the Way You Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think),” *vividcortex.com*, December 7, 2015.
 
-1.  James Hamilton:
+1.  **[TO READ]** James Hamilton:
     “[On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/events/lisa07/tech/full_papers/hamilton/hamilton.pdf),” at *21st Large Installation
     System Administration Conference* (LISA), November 2007.
 
@@ -121,7 +121,7 @@ Chapter 1 References
     “[Out of the Tar Pit](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.93.8928),”
     at *BCS Software Practice Advancement* (SPA), 2006.
 
-1.  Rich Hickey:
+1.  **[TO READ]** Rich Hickey:
     “[Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy),”
     at *Strange Loop*, September 2011.
 
