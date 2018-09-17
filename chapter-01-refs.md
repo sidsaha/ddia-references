@@ -16,7 +16,7 @@ Chapter 1 References
     “[Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf),” at *11th USENIX Symposium on Operating Systems Design
     and Implementation* (OSDI), October 2014.
 
-1.  **[TO READ]** Yury Izrailevsky and Ariel Tseitlin:
+1.  **[READ]** Yury Izrailevsky and Ariel Tseitlin:
     “[The Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html),”
     *techblog.netflix.com*, July 19, 2011.
 
