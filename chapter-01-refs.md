@@ -51,7 +51,7 @@ Chapter 1 References
     “[Why Do Internet Services Fail, and What Can Be Done About It?](http://static.usenix.org/legacy/events/usits03/tech/full_papers/oppenheimer/oppenheimer.pdf),” at *4th USENIX Symposium on
     Internet Technologies and Systems* (USITS), March 2003.
 
-1.  **[TO READ]** Nathan Marz:
+1.  **[READ]** Nathan Marz:
       “[Principles   of Software Engineering, Part 1](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html),” *nathanmarz.com*, April 2, 2013.
 
 1.  Michael Jurewitz:
