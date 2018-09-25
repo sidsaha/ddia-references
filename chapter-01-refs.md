@@ -44,7 +44,7 @@ Chapter 1 References
 1.  Richard I. Cook:
     “[How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf),” Cognitive Technologies Laboratory, April 2000.
 
-1.  **[TO READ]** Jay Kreps:
+1.  **[READ]** Jay Kreps:
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
 
 1.  David Oppenheimer, Archana Ganapathi, and David A. Patterson:
