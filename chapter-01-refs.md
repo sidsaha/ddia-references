@@ -28,7 +28,7 @@ Chapter 1 References
 1.  Brian Beach:
     “[Hard Drive Reliability Update – Sep 2014](https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/),” *backblaze.com*, September 23, 2014.
 
-1.  **[TO READ]** Laurie Voss:
+1.  **[READ]** Laurie Voss:
     “[AWS: The Good, the Bad and the Ugly](https://web.archive.org/web/20160429075023/http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/),” *blog.awe.sm*, December 18, 2012.
 
 1.  Haryadi S. Gunawi, Mingzhe Hao, Tanakorn
