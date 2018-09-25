@@ -82,7 +82,7 @@ Chapter 1 References
 1.  Jake Brutlag:
     “[Speed Matters for Google Web Search](http://googleresearch.blogspot.co.uk/2009/06/speed-matters.html),” *googleresearch.blogspot.co.uk*, June 22, 2009.
 
-1.  **[TO READ]** Tyler Treat:
+1.  **[READ]** Tyler Treat:
     “[Everything You Know About Latency Is Wrong](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/),” *bravenewgeek.com*, December 12, 2015.
 
 1.  Jeffrey Dean and Luiz André Barroso:
