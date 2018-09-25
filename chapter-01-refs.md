@@ -121,7 +121,7 @@ Chapter 1 References
     “[Out of the Tar Pit](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.93.8928),”
     at *BCS Software Practice Advancement* (SPA), 2006.
 
-1.  **[TO READ]** Rich Hickey:
+1.  **[READ]** Rich Hickey:
     “[Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy),”
     at *Strange Loop*, September 2011.
 
